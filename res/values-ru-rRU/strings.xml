@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Dolby Atmos -->
+    <string name="dolby_title">Dolby Atmos</string>
+    <string name="dolby_enable">Активация</string>
+    <string name="dolby_profile_title">Выберите профиль</string>
+    <string name="dolby_preset">Графический эквалайзер</string>
+    <string name="dolby_off">Выкл</string>
+    <string name="dolby_on">Вкл</string>
+    <string name="dolby_low">Низкий</string>
+    <string name="dolby_medium">Середина</string>
+    <string name="dolby_high">Высокий</string>
+    <string name="dolby_max">Макс</string>
+    <string name="dolby_unknown">Неизвестный</string>
+    <string name="dolby_on_with_profile">Вкл (%1$s)</string>
+    <string name="dolby_category_settings">Настройки</string>
+    <string name="dolby_bass_enhancer">Усилитель басов</string>
+    <string name="dolby_dialogue_enhancer">Усилитель диалога</string>
+    <string name="dolby_spk_virtualizer">Виртуализация динамиков</string>
+    <string name="dolby_hp_virtualizer">Виртуализация наушников</string>
+    <string name="dolby_stereo_widening">Расширение стерео</string>
+    <string name="dolby_volume_leveler">Выравн. громкости</string>
+    <string name="dolby_connect_headphones">Подключить наушники</string>
+    <string name="dolby_reset_profile">Сброс по умолчанию</string>
+    <string name="dolby_reset_profile_toast">Успешно выполнен сброс настроек для %1$s профиля</string>
+
+    <!-- Dolby profiles -->
+    <string name="dolby_profile_dynamic">Динамичный</string>
+    <string name="dolby_profile_movie">Фильм</string>
+    <string name="dolby_profile_music">Музыка</string>
+    <string name="dolby_profile_custom">Кастом</string>
+
+    <!-- Dolby equalizer presets -->
+    <string name="dolby_preset_default">Плоский (выкл.)</string>
+    <string name="dolby_preset_rock">Рок</string>
+    <string name="dolby_preset_jazz">Джаз</string>
+    <string name="dolby_preset_pop">Поп</string>
+    <string name="dolby_preset_classical">Классическая</string>
+    <string name="dolby_preset_hiphop">Хип-хоп</string>
+    <string name="dolby_preset_blues">Блюз</string>
+    <string name="dolby_preset_electronic">Электронная</string>
+    <string name="dolby_preset_country">Кантри</string>
+    <string name="dolby_preset_dance">Танец</string>
+    <string name="dolby_preset_metal">Металл</string>
+
+    <!-- Dolby equalizer UI -->
+    <string name="dolby_geq_slider_label_gain">Усиление</string>
+    <string name="dolby_geq_preset">Пресет</string>
+    <string name="dolby_geq_preset_name">Имя пресета</string>
+    <string name="dolby_geq_new_preset">Новый пресет</string>
+    <string name="dolby_geq_rename_preset">Переименовать пресет</string>
+    <string name="dolby_geq_delete_preset">Удалить пресет</string>
+    <string name="dolby_geq_delete_preset_prompt">Вы хотите удалить этот пресет?</string>
+    <string name="dolby_geq_reset_gains">Сброс усиления</string>
+    <string name="dolby_geq_reset_gains_prompt">Хотите сбросить этот пресет по умолчанию?</string>
+    <string name="dolby_geq_preset_name_exists">Имя пресета уже существует!</string>
+    <string name="dolby_geq_preset_name_too_long">Имя пресета слишком длинное!</string>
+
+    <!-- Dolby intelligent EQ -->
+    <string name="dolby_ieq">Интеллект. эквалайзер</string>
+    <string name="dolby_balanced">Сбалансированный</string>
+    <string name="dolby_warm">Теплый</string>
+    <string name="dolby_detailed">Детальный</string>
+
+</resources>

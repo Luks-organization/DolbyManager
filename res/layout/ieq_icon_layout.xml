@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@android:id/widget_frame"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:minWidth="56dp"
+    android:gravity="end|center_vertical"
+    android:orientation="horizontal"
+    android:paddingLeft="8dp"
+    android:paddingStart="8dp"
+    android:paddingRight="0dp"
+    android:paddingEnd="0dp"
+    android:paddingTop="4dp"
+    android:paddingBottom="4dp">
+
+    <androidx.preference.internal.PreferenceImageView
+        android:id="@+id/ieq_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:maxWidth="56dp"
+        app:maxHeight="56dp"/>
+
+</LinearLayout>
