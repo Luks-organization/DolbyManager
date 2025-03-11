@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: The LineageOS Project
+     Copyright (C) 2023-24 Paranoid Android
      SPDX-License-Identifier: Apache-2.0
 -->
 <config>
     <!-- Dolby -->
-    <install-in-user-type package="org.lineageos.dolby">
+    <install-in-user-type package="co.aospa.dolby.oplus">
         <install-in user-type="FULL" />
         <install-in user-type="PROFILE" />
         <do-not-install-in user-type="android.os.usertype.profile.CLONE" />
